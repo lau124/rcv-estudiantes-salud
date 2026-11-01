@@ -1,0 +1,18 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Compilados y dependencias (por si se agrega código)
+target/
+build/
+node_modules/
+*.class
